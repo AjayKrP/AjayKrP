@@ -1,10 +1,60 @@
-- 👋 Hi, I’m @AjayKrP. Currently working as Staff Engineer.
-- 👀 Have experience in building large scale, high performance robust systems.
-- 🌱 Developed ONDC(Open network for digital commerce) buyer and seller apps. You can reach out to me if you need any guidance building ONDC enabled apps.
-- 💞️ I’m looking to collaborate on Youtube, Instagram. Here is my [Youtube](https://www.youtube.com/channel/UCvEB7wXUEXGFE9lCx0USR3Q?sub_confirmation=1) and [Instagram](https://www.instagram.com/edu.literacis/)
-- 📫 You can contact me [here](https://ajaykrp.me/contact) . I will get in touch we you ASAP.
+# 👋 Hello, I'm Ajay Kumar (AjayKrP)
 
-<!---
-AjayKrP/AjayKrP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Staff Engineer | System Design Enthusiast | ONDC Contributor | Dubai-based Tech Creator**
+
+---
+
+## 💼 About Me
+
+- 🔧 Currently working as **Staff Engineer**, with hands-on experience in designing and building **large-scale, high-performance, and resilient systems**.
+- 🌍 Based in **Dubai**, helping startups and enterprises scale backend infrastructure with **Node.js, TypeScript, NestJS, MongoDB, and AWS**.
+- 🛒 Contributed to **ONDC (Open Network for Digital Commerce)** – developed both **Buyer and Seller apps** from scratch.
+- 🧠 Reach out for **consultation or guidance** on building ONDC-enabled applications, scalable APIs, or system architecture.
+- 🎯 Passionate about clean code, low-latency systems, distributed architecture, and developer mentorship.
+
+---
+
+## 🎥 Content & Collaborations
+
+I'm actively creating **tech content** on:
+
+- 🔹 **YouTube** – Full-stack tutorials, system design, and project walkthroughs  
+  🔗 [YouTube Channel](https://www.youtube.com/@AjayKrP)
+
+- 🔹 **Instagram** – Career tips, coding reels, dev humor, and productivity  
+  🔗 [Instagram Profile](https://www.instagram.com/ajaykrp)
+
+🤝 I'm open to **collaborations** on content, podcasts, courses, and coding challenges.
+
+---
+
+## 📬 Let's Connect
+
+Feel free to reach out —  
+📧 [Email Me](mailto:your-email@example.com) or DM on [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+> I usually respond **ASAP** and am happy to help with architecture advice, project guidance, or content ideas.
+
+---
+
+## 🔧 Tech Stack
+
+`Node.js` • `TypeScript` • `NestJS` • `MongoDB` • `PostgreSQL` • `Redis`  
+`Kafka` • `RabbitMQ` • `Docker` • `Kubernetes` • `AWS` • `CI/CD`  
+`System Design` • `Microservices` • `Event-Driven Architecture`
+
+---
+
+## 📌 Featured Projects
+
+Check out my pinned repositories for:
+- ONDC APIs & apps
+- E-commerce platforms
+- Booking systems
+- Backend utilities & decorators
+- System design blueprints
+
+---
+
+_Thanks for visiting!_ 😊  
+⭐️ _Star_ your favorite repo or connect to build something impactful.
