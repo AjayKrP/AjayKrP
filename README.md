@@ -19,10 +19,10 @@
 I'm actively creating **tech content** on:
 
 - 🔹 **YouTube** – Full-stack tutorials, system design, and project walkthroughs  
-  🔗 [YouTube Channel](https://www.youtube.com/@AjayKrP)
+  🔗 [YouTube Channel](https://www.youtube.com/@codingwithkrpajay)
 
 - 🔹 **Instagram** – Career tips, coding reels, dev humor, and productivity  
-  🔗 [Instagram Profile](https://www.instagram.com/ajaykrp)
+  🔗 [Instagram Profile](https://www.instagram.com/krp.ajay)
 
 🤝 I'm open to **collaborations** on content, podcasts, courses, and coding challenges.
 
@@ -31,7 +31,7 @@ I'm actively creating **tech content** on:
 ## 📬 Let's Connect
 
 Feel free to reach out —  
-📧 [Email Me](mailto:your-email@example.com) or DM on [LinkedIn](https://www.linkedin.com/in/your-profile)
+📧 [Email Me](mailto:ajayiit8@gmail.com) or DM on [LinkedIn](https://www.linkedin.com/in/krpajay/)
 
 > I usually respond **ASAP** and am happy to help with architecture advice, project guidance, or content ideas.
 
